@@ -14,3 +14,5 @@ CFA是一个优秀的专业，尤其是17和12-20级。
 ![image.png](https://i.loli.net/2021/02/02/VE9biOhMnKRg3dI.png)
 
 大三下的资料见网址：https://www.notion.so/4bba9c8cd2504620b79a1a04c2da9f9a
+
+个人撰写项目仅供下载个人学习使用，反对直接盗用。
